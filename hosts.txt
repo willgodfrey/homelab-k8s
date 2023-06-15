@@ -1,0 +1,17 @@
+127.0.0.1       localhost
+::1             localhost
+
+10.6.40.40      k8sC-s76-01 #homelab-76server-k8worker-01
+10.6.40.50      k8sC-miniserver-01 #homelab-miniserver-k8
+10.6.40.51      k8s-willsmini-01 #homelab-willsmini-k8
+10.6.40.52      k8sC-blackbox-01 #homelab-blackbox-k8
+10.6.40.53		k8s-cm4-01-t
+10.6.40.54		k8s-cm4-02-t
+10.6.40.11      k8s-nano-01-g #homelab-tpigreen-k8nanogpu-01
+10.6.40.12      k8s-orin-01-g #homelab-tpigreen-k8oringpu-02
+10.6.40.13      k8s-cm4-03-g #homelab-tpigreen-k8cm4-03
+10.6.40.14      k8s-cm4-04-g #homelab-tpigreen-k8cm4-04
+10.6.40.21      k8s-nano-02-o #homelab-tpiorange-k8nanogpu-01
+10.6.40.22      k8s-orin-02-o #homelab-tpiorange-k8oringpu-02
+10.6.40.23      k8s-cm4-05-o #homelab-tpiorange-k8cm4-03
+10.6.40.24      k8s-cm4-06-o #homelab-tpiorange-k8cm4-04
